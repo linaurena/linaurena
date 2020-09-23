@@ -1,14 +1,23 @@
-## I'm a Front-end student from <Laboratoria>!
+# Hi, I'm Lina, my friends call me Boni 
 
-- 🔭 I'm currently creating content to my channel!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🎯 2020 Goals: Create a project with tree.js
-- 🥴 Fun fact: I've driven train and carousel
+## I'm a Front-end student from `<Laboratoria>`
 
----
+🔭 I'm currently creating content to my channel!
+</br>
+🌱 I’m currently learning everything 🤣
+</br>
+👯 I’m looking to collaborate with other content creators
+</br>
+🎯 2020 Goals: Create a project with tree.js
+</br>
+🥴 Fun fact: I've driven train and carousel
 
-<img align='left' alt='linaurena Github Stats' src='https://github-readme-stats.vercel.app/api?username=linaurena&show_icons=true&hide_border=true />
+</br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=linaurena&layout=compact)](https://github.com/linaurena/github-readme-stats)
+
+![linaurena's github stats](https://github-readme-stats.vercel.app/api?username=linaurena&show_icons=true)
+
 
 
 ### Languages and Tools:
