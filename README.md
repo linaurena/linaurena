@@ -2,8 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=linaurena&color=gray)
 
-[Check Out my CV](https://drive.google.com/file/d/1eH_EVVT05jYKMMbvvTFFd1D6a50lKkc1/view)
-
 ## I'm a Front-end student from Laboratoria  <img alt="Laboratoria icon" width="20px" src="https://avatars2.githubusercontent.com/u/7280695?s=200&v=4" />
 
 </br>
