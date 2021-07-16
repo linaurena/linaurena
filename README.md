@@ -22,16 +22,6 @@
 
 </br>
 
-## GitHub Stats
-
-</br>
-
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linaurena&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=linaurena&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-
-</br>
-
 ## Languages and Tools:
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -53,3 +43,15 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+
+</br>
+</br>
+
+## GitHub Stats
+
+</br>
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linaurena&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=linaurena&bg_color=30,e96443,904e95&title_color=fff&text_color=ffff&hide_border=true" />
+
+</br>
