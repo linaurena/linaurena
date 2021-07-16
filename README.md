@@ -52,7 +52,6 @@
 </br>
 
 <img align="left" width="205px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=linaurena&&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true" />
-
 <img align="left" width="496px" src="https://github-readme-stats.vercel.app/api?username=linaurena&bg_color=30,e96443,904e95&title_color=fff&text_color=ffff&hide_border=true" />
 
 </br>
