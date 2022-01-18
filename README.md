@@ -8,15 +8,15 @@
 
 🔭 I'm currently creating content to my channel!
 </br>
-🌱 I’m currently learning everything 🤣
+🌱 I’m currently learning C# 
 </br>
 👯 I’m looking to collaborate with other content creators
 </br>
-🎯 2021 Goals: Doing my first game with C#
+🎯 2022 Goals: Doing my first game with C#
 </br>
 👩🏻‍🚀 I adore CSS, UI & tech
 </br>
-🎮 I'm working hard to learn how create and develop video games
+🎮 I'm working hard to learn how create and develop video games in VR
 </br>
 🥴 Fun fact: I've driven train and carousel
 
@@ -35,6 +35,8 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+
+<img align="left" alt="C#" width="26px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
 
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
